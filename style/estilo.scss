@@ -1,0 +1,46 @@
+*{
+    /* background-color: rgb(253, 28, 253); */
+    //border: solid 1px lightgrey;
+} 
+
+ .subtituloYback{
+    display: flex;
+    flex-flow: row nowrap;
+    margin: 3rem;
+    // background-color: darkgreen;
+    .back{
+        margin-left: 2rem;
+        text-decoration: none;
+        color: white;
+        font-size: 1.3rem;
+    }
+}
+
+#AboutMe{
+    height: 350px;
+    background-image: url(../img/jwst_ok.jpg);
+
+    // border: solid 1px white;
+}
+
+/* .experience{
+    border: solid 1px orange;
+    background-color: darkblue;
+}  */
+
+li{
+    margin-top: 0.5rem;
+}
+
+#volverArriba{
+    color: white;
+    font-size: 11px;
+}
+
+footer{
+    font-size: 11px;
+}
+
+img{
+    margin-right: 5px;
+}
