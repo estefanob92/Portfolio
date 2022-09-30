@@ -3,7 +3,8 @@
     //border: solid 1px lightgrey;
 } 
 
- .subtituloYback{
+
+.subtituloYback{
     display: flex;
     flex-flow: row nowrap;
     margin: 3rem;
@@ -50,3 +51,11 @@ img{
 /* #Header, footer{
     background: linear-gradient(180deg, rgb(38, 37, 43) 0%, rgb(73, 73, 78) 100%);
 } */
+
+.subtituloCV{
+    padding: 3rem;
+}
+
+.btnExp{
+    margin-top: 1rem;
+}
